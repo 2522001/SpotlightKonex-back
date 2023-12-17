@@ -1,40 +1,34 @@
-<h1 align="center">SpotlightKonex 백엔드</h1>
+<h1>SpotlightKonex-back</h1>
+* 신한투자증권 ICT 인턴 최종 프로젝트 백엔드 레포지토리입니다.
+* 인프라 전반과 백엔드 일부를 맡았습니다.
 <br/>
+![슬라이드1](https://github.com/2522001/SpotlightKonex-back/assets/83651335/9c90ec14-45fd-4c51-8666-1b7672a06633)
+![슬라이드2](https://github.com/2522001/SpotlightKonex-back/assets/83651335/ae664cf3-2e9a-4176-87df-5c043624410d)
+![슬라이드3](https://github.com/2522001/SpotlightKonex-back/assets/83651335/a5cad250-89d0-4631-bb5f-820d639ebfba)
+![슬라이드4](https://github.com/2522001/SpotlightKonex-back/assets/83651335/d1973b2c-9942-454c-a00a-5810163d3b2f)
+![슬라이드5](https://github.com/2522001/SpotlightKonex-back/assets/83651335/c356b316-f9d7-4d08-9c2a-c7e1df824eee)
+![슬라이드6](https://github.com/2522001/SpotlightKonex-back/assets/83651335/bb21b419-f543-44e3-b73a-d32f940b6bf1)
+![슬라이드7](https://github.com/2522001/SpotlightKonex-back/assets/83651335/952e3712-dc9c-42e3-bacf-ad8679f199be)
+![슬라이드8](https://github.com/2522001/SpotlightKonex-back/assets/83651335/497fc4bc-fdad-4dd4-a3e1-62ecbef744ca)
+![슬라이드9](https://github.com/2522001/SpotlightKonex-back/assets/83651335/390c2923-1c40-446f-b1a3-09c9ec369f01)
+![슬라이드10](https://github.com/2522001/SpotlightKonex-back/assets/83651335/0f1f88af-d700-4f02-ad26-429d0277ae7d)
+![슬라이드11](https://github.com/2522001/SpotlightKonex-back/assets/83651335/de4cbd92-44b3-47d7-b76d-570f5494ddfd)
+![슬라이드12](https://github.com/2522001/SpotlightKonex-back/assets/83651335/c2f4b6a5-c3b3-4947-95cd-b29d239f56b2)
+![슬라이드13](https://github.com/2522001/SpotlightKonex-back/assets/83651335/e1dc0c2e-de9c-43ff-973e-3a81337daced)
+![슬라이드14](https://github.com/2522001/SpotlightKonex-back/assets/83651335/194a43dd-1a24-44ba-8224-d9d38a9aa0e0)
+![슬라이드15](https://github.com/2522001/SpotlightKonex-back/assets/83651335/5d3d48e7-f3f6-4e98-8322-c20a91955844)
+![슬라이드16](https://github.com/2522001/SpotlightKonex-back/assets/83651335/2f93a652-7681-42e8-934c-3150824428d1)
+![슬라이드17](https://github.com/2522001/SpotlightKonex-back/assets/83651335/3e975990-594d-44b6-bf60-3a23fd3cc2b2)
+![슬라이드18](https://github.com/2522001/SpotlightKonex-back/assets/83651335/41db0d7c-7149-4455-8f6a-0fe4198cc357)
 
-<h2>📃commit message</h2>
 
-### 1. 커밋 유형 지정
 
-- 커밋 유형은 영어 대문자로 작성하기
 
-    | 커밋 유형 | 의미 |
-    | --- | --- |
-    | Feat | 새로운 기능 추가 |
-    | Fix | 버그 수정 |
-    | Docs | 문서 수정 |
-    | Style | 코드 formatting, 세미콜론 누락, 코드 자체의 변경이 없는 경우 |
-    | Refactor | 코드 리팩토링 |
-    | Test | 테스트 코드, 리팩토링 테스트 코드 추가 |
-    | Chore | 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore |
-    | Design | CSS 등 사용자 UI 디자인 변경 |
-    | Comment | 필요한 주석 추가 및 변경 |
-    | Rename | 파일 또는 폴더 명을 수정하거나 옮기는 작업만인 경우 |
-    | Remove | 파일을 삭제하는 작업만 수행한 경우 |
-    | !BREAKING CHANGE | 커다란 API 변경의 경우 |
-    | !HOTFIX | 급하게 치명적인 버그를 고쳐야 하는 경우 |
 
-<br/>
 
-### 2. 제목과 본문을 빈행으로 분리
-- 커밋 유형 이후 제목과 본문은 한글로 작성하여 내용이 잘 전달될 수 있도록 할 것
-- 본문에는 변경한 내용과 이유 설명 (어떻게보다는 무엇 & 왜를 설명)
 
-### 3. 제목 첫 글자는 대문자로, 끝에는 `.` 금지
 
-### 4. 제목은 영문 기준 50자 이내로 할 것
 
-### 5. 자신의 코드가 직관적으로 바로 파악할 수 있다고 생각하지 말자
 
-### 6. 여러가지 항목이 있다면 글머리 기호를 통해 가독성 높이기
 
-<br/>
+
