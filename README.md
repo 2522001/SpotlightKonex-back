@@ -1,6 +1,6 @@
 <h1>SpotlightKonex-back</h1>
 
-신한투자증권 ICT 인턴 최종 프로젝트 백엔드 레포지토리입니다.<br/>
+신한투자증권 ICT 인턴 최종 프로젝트 백엔드 리포지토리입니다.<br/>
 인프라 전반과 백엔드 일부를 맡았습니다.<br/>
 
 ![슬라이드1](https://github.com/2522001/SpotlightKonex-back/assets/83651335/9c90ec14-45fd-4c51-8666-1b7672a06633)
@@ -24,8 +24,6 @@
 ![슬라이드15](https://github.com/2522001/SpotlightKonex-back/assets/83651335/5d3d48e7-f3f6-4e98-8322-c20a91955844)
 
 ![슬라이드17](https://github.com/2522001/SpotlightKonex-back/assets/83651335/3e975990-594d-44b6-bf60-3a23fd3cc2b2)
-
-![슬라이드18](https://github.com/2522001/SpotlightKonex-back/assets/83651335/41db0d7c-7149-4455-8f6a-0fe4198cc357)
 
 
 
